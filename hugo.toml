@@ -4,6 +4,9 @@ title = 'CurlBook'
 theme = 'anubis'
 publishDir = 'docs'
 
+[params.author]
+name = "Andrew Flemming"
+
 #[[menu.main]]
 #identifier = "home"
 #name = "Home"
