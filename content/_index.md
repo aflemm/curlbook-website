@@ -1,11 +1,14 @@
----
-title: "CurlBook"
-date: 2024-09-14T11:50-05:00
++++
+author = "Andrew Flemming"
+title = "CurlBook"
++++
 
-draft: false
----
-### 👋 Hello.
+## CurlBook
 
-CurlBook :)
+Intuitive and insightful performance analytics for curling teams.
 
----
+![](/images/curlbook-sample-1.png)
+
+Coming soon ...
+
+[andrew@curlbook.ca](mailto:andrew@curlbook.ca)
