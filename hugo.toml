@@ -1,7 +1,7 @@
 baseURL = 'https://curlbook.ca/'
 languageCode = 'en-CA'
 title = 'CurlBook'
-theme = 'anubis2'
+theme = 'anubis'
 publishDir = 'docs'
 
 #[[menu.main]]
