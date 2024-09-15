@@ -3,8 +3,6 @@ author = "Andrew Flemming"
 title = "CurlBook"
 +++
 
-## CurlBook
-
 Intuitive and insightful performance analytics for curling teams.
 
 ![](/images/curlbook-sample-1.png)
