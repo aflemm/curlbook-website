@@ -7,6 +7,13 @@ publishDir = 'docs'
 [params.author]
 name = "Andrew Flemming"
 
+[params]
+description = "CurlBook is intuitive and insightful performance analysis software for curling teams"
+dateFormat = "2006-01-02"
+locale = "en-CA"
+colorTheme = "auto"
+colorThemeSwitcher = false
+
 #[[menu.main]]
 #identifier = "home"
 #name = "Home"
