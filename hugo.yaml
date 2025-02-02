@@ -9,12 +9,12 @@ publishDir: "docs"
 
 
 
-menu:
-  main:
-    - identifier: categories
-      name: Blog
-      url: /posts/
-      weight: 10
+# menu:
+#   main:
+#     - identifier: categories
+#       name: Blog
+#       url: /posts/
+#       weight: 10
 #     - identifier: tags
 #       name: tags
 #       url: /tags/
