@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://curlbook.ca/sitemap.xml
