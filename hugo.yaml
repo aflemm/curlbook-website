@@ -3,7 +3,6 @@
 baseURL: "https://curlbook.ca"
 title: CurlBook
 copyright: "© Andrew Flemming"
-paginate: 5
 theme: [PaperMod]
 publishDir: "docs"
 
@@ -15,18 +14,18 @@ menu:
 #       name: Blog
 #       url: /posts/
 #       weight: 10
-    - identifier: releases
-      name: Releases
-      url: /releases/
-      weight: 15
-    - identifier: contact
-      name: Contact
-      url: /contact/
+#     - identifier: releases
+#       name: Releases
+#       url: /releases/
+#       weight: 15
+    - identifier: about
+      name: About
+      url: /about/
       weight: 20
-    - identifier: download
-      name: Download
-      url: https://andrewflemming.net
-      weight: 30
+#     - identifier: download
+#       name: Download
+#       url: https://andrewflemming.net
+#       weight: 30
 
 
 enableInlineShortcodes: true

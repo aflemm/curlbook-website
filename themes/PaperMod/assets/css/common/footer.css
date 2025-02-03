@@ -8,7 +8,7 @@
     max-width: calc(var(--main-width) + var(--gap) * 2);
     margin: auto;
     padding: calc((var(--footer-height) - var(--gap)) / 2) var(--gap);
-    text-align: center;
+    text-align: left;
     line-height: 24px;
 }
 
