@@ -33,6 +33,16 @@
     background: var(--code-bg);
 }
 
+.post-single {
+	background: var(--code-bg);
+}
+
+/* 
 .dark.list {
     background: var(--theme);
 }
+
+.dark.post-single {
+    background: var(--theme);
+}
+ */

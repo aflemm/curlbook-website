@@ -5,9 +5,13 @@ title = "CurlBook"
 
 ![](/images/curlbook-sample-1.png)
 
+[![test](/images/app-store-badge.svg#center)](https://andrewflemming.net)
+
 CurlBook is the best performance analytics software for curling teams. Fast, intuitive, and insightful, CurlBook will capture and display the data your team needs to win more games.
 
-# Analytics can help
+-- Created by [Andrew Flemming](https://andrewflemming.net)
+
+# Analytics Can Help
 
 A single game of curling is a very large, multi-variable dataset. An event, or season's worth of games even more-so.
 
@@ -66,9 +70,9 @@ Performance timeline bar charts highlight misses, and make trends obvious at a g
 
 
 ![](/images/key-stats-breakdown.png)
-CurlBook introduces brand new stats to help you track performance. 
+CurlBook introduces brand new stats to help you track performance.
 - Make-rate is the percentage of shots scored as 3 or 4, and represents the ratio of impactful shots. 
-- Miss-rate is opposite, the percentage of shots scored as 0 or 1, and represents the ratio of damaging shots.
+- Miss-rate is opposite, the percentage of shots scored as 0 or 1, and represents the ratio of damaging shots
 - TV stat is the traditional television-broadcast style scoring percentage
 - Weighted performance is similar to TV stat but with negative weighting to misses, and it does a better job at highlighting changes in performance
 
@@ -107,6 +111,3 @@ No VC funding, no data harvesting, no 3rd party advertising
 
 CurlBook is compatible with any iPad running iOS 18.0 or later
 
----
-
-[andrew@curlbook.ca](mailto:andrew@curlbook.ca)
