@@ -15,17 +15,13 @@ menu:
 #       name: Blog
 #       url: /posts/
 #       weight: 10
-#     - identifier: tags
-#       name: tags
-#       url: /tags/
-#       weight: 20
     - identifier: releases
       name: Releases
       url: /releases/
       weight: 15
     - identifier: contact
       name: Contact
-      url: mailto:andrew@curlbook.ca
+      url: /contact/
       weight: 20
     - identifier: download
       name: Download
@@ -75,6 +71,8 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   disableAnchoredHeadings: true
+  disableScrollToTop: true
+  hideMeta: true
   #ShowShareButtons: true
   #ShowReadingTime: true
   # disableSpecial1stPost: true

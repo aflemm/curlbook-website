@@ -6,6 +6,7 @@
     margin-inline-start: auto;
     margin-inline-end: auto;
     line-height: var(--header-height);
+    padding-top: 1em;
 }
 
 .nav a {
@@ -23,6 +24,7 @@
 }
 
 .logo a {
+	font: wingdings;
     font-size: 44px;
     font-weight: 700;
 }
@@ -32,7 +34,7 @@
     vertical-align: middle;
     pointer-events: none;
     transform: translate(0, -10%);
-    border-radius: 6px;
+    border-radius: 18%;
     margin-inline-end: 8px;
 }
 
