@@ -83,11 +83,9 @@ CurlBook features an extensible tags system allows you to track your own custom 
 
 During data review, filters give you fine-grain control over what you see. Interested trends in low-precision out-turn hits by your front-end that were missed? CurlBook has you covered.
 
-## Just the Beginning
+## Supported Devices
 
-CurlBook is a modern platform that can grow and scale for years to come. I'm really excited to share the journey with you.
-
-Please [contact me]({{< ref "about" >}}) if you have questions, suggestions, or comments.
+CurlBook is compatible with any iPad running iOS 18.0 or later
 
 ## Pricing
 
@@ -95,9 +93,11 @@ CurlBook is directly funded by its users, and sustainably priced to enable conti
 
 A flat $200/year subscription gives you full access to everything CurlBook offers.
 
-The app is free to download, and one game can be created as a trial without any commitment or signup. Even without a subscription you can *always* view previously generated data.
+The app is free to download, and one game can be created as a trial without any commitment or signup. I will never hold your data hostage; even without a subscription you can *always* view previously generated data.
 
-## Supported Devices
+## Just the Beginning
 
-CurlBook is compatible with any iPad running iOS 18.0 or later
+CurlBook is a modern platform that can grow and scale for years to come. I'm really excited to share the journey with you.
+
+Please [contact me]({{< ref "about" >}}) if you have questions, suggestions, or comments.
 
