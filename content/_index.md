@@ -3,6 +3,7 @@ author = "Andrew Flemming"
 title = "CurlBook"
 +++
 
+
 ![](/images/curlbook-sample-1.png)
 
 *Coming very soon...*
@@ -11,9 +12,11 @@ title = "CurlBook"
 [![](/images/app-store-badge.svg#center)](https://andrewflemming.net) 
 -->
 
+{{< box-content >}}
+
 CurlBook is the best performance analytics software for curling teams. Fast, intuitive, and insightful, CurlBook will capture and display the data your team needs to win more games.
 
--- Created by [Andrew Flemming](https://andrewflemming.net)
+{{< /box-content >}}
 
 ## Your Assistant Coach
 
@@ -44,7 +47,7 @@ Sometimes a picture can say 1000 words, and CurlBook drawings are super fast and
 
 ## Data → Insights
 
-The value of collecting game data is in the insights it generates. We don't hand our MVP awards, we look to uncover the critical trends that will win and lose games in the futre. Knowing this, we can reinforce good trends and course-correct bad ones.
+The value of collecting game data is in the insights it generates. We don't hand our all-star awards, we look to uncover the critical trends that will win and lose games in the futre. Knowing this, we can reinforce good trends and course-correct bad ones.
 
 CurlBook presents trends over time so it's crystal clear how your practice is paying off.
 
