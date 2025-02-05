@@ -47,7 +47,7 @@ Sometimes a picture can say 1000 words, and CurlBook drawings are super fast and
 
 ## Data → Insights
 
-The value of collecting game data is in the insights it generates. We don't hand our all-star awards, we look to uncover the critical trends that will win and lose games in the futre. Knowing this, we can reinforce good trends and course-correct bad ones.
+The value of collecting game data is in the insights it generates. We don't hand out all-star awards, we look to uncover the critical trends that will win and lose games in the future. Knowing this, we can reinforce good trends and course-correct bad ones.
 
 CurlBook presents trends over time so it's crystal clear how your practice is paying off.
 
@@ -82,9 +82,9 @@ CurlBook is fast and easy to use. With an intuitive and iPad-native interface, C
 
 CurlBook can track as much or as little as you want to put into it. Just want to track draw weight? CurlBook's flexibility makes it the perfect tool for the job.
 
-CurlBook features an extensible tags system allows you to track your own custom metrics, and every plot and chart can be filtered by your custom tags.
+CurlBook features an extensible tags system which allows you to track your own custom metrics, and every plot and chart can be filtered by your custom tags.
 
-During data review, filters give you fine-grain control over what you see. Interested trends in low-precision out-turn hits by your front-end that were missed? CurlBook has you covered.
+During data review, filters give you fine-grain control over what you see. Want to see trends in low-precision out-turn hits that were missed by your front-end? CurlBook has you covered.
 
 ## Supported Devices
 
