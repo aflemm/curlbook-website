@@ -14,18 +14,18 @@ menu:
 #       name: Blog
 #       url: /posts/
 #       weight: 10
-#     - identifier: releases
-#       name: Releases
-#       url: /releases/
-#       weight: 15
+    - identifier: releases
+      name: Releases
+      url: /releases/
+      weight: 15
     - identifier: about
       name: About
       url: /about/
       weight: 20
-#     - identifier: download
-#       name: Download
-#       url: https://andrewflemming.net
-#       weight: 30
+    - identifier: download
+      name: Download
+      url: https://apps.apple.com/ca/app/curlbook/id1467122937
+      weight: 30
 
 
 enableInlineShortcodes: true

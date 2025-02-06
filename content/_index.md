@@ -6,11 +6,9 @@ title = "CurlBook"
 
 ![](/images/curlbook-sample-1.png)
 
-*Coming very soon...*
+ 
+[![](/images/app-store-badge.svg#center)](https://apps.apple.com/ca/app/curlbook/id1467122937) 
 
-<!-- 
-[![](/images/app-store-badge.svg#center)](https://andrewflemming.net) 
--->
 
 {{< box-content >}}
 
