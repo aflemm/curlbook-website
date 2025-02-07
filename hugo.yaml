@@ -38,18 +38,32 @@ pygmentsUseClasses: true
 
 minify:
   disableXML: true
-  # minifyOutput: true
+  minifyOutput: true
 
 
 outputs:
   home:
     - HTML
-    - RSS
-    - JSON
+#     - RSS
+#     - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "CurlBook"
+  description: "CurlBook is the best performance analytics software for curling teams. An iPad app that is fast, intuitive, and insightful, CurlBook will capture and display the data your team needs to win more games."
+  
+  keywords:
+    - curling
+    - curl
+    - coach
+    - analytics
+    - stats
+    - statistics
+    - app
+    - iPad
+    - iOS
+    - software
+    
+  
   author: "Andrew Flemming"
   
   label:
@@ -57,8 +71,7 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 45
     
-    assets:
-    # disableHLJS: true # to disable highlight.js
+  assets:
     # disableFingerprinting: true
     favicon: "/apple-touch-icon.png"
     favicon16x16: "/apple-touch-icon.png"
