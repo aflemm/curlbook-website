@@ -75,7 +75,7 @@ CurlBook shows you a curling game like never seen it before. By being extremely 
 {{< /box-content >}}
 
 ![](/images/scoreboard-story.png)
-Scoreboard story line plots show the flow of scoreboard control through a game. Instantly see the ends that got you into trouble, for quick focusing on real problems.
+Scoreboard story line plots show the flow of scoreboard control through a game. Instantly see the ends that got you into trouble to quickly focus on real problems.
 
 ![](/images/player-performance.png)
 Performance timeline bar charts highlight misses, and make trends obvious at a glance. No more digging through shot scores to uncover meaning. It's seriously the best way to review a curling game.
