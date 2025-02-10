@@ -73,9 +73,9 @@ params:
     
   assets:
     # disableFingerprinting: true
-    favicon: "/apple-touch-icon.png"
-    favicon16x16: "/apple-touch-icon.png"
-    favicon32x32: "/apple-touch-icon.png"
+    favicon: "favicon.png"
+#     favicon16x16: "/apple-touch-icon.png"
+#     favicon32x32: "/apple-touch-icon.png"
     apple_touch_icon: "/apple-touch-icon.png"
 #     safari_pinned_tab: "<link / abs url>"
 
