@@ -9,7 +9,7 @@ I'm [Andrew Flemming](https://andrewflemming.net) (he/him). I design, develop, s
 
 ### Contact
 
-If you have questions, need help, or just want to talk about CurlBook, please send me an email at [andrew@curlbook.ca](mailto:andrew@curlbook.ca)
+If you have questions, need help, or just want to talk about CurlBook, please send me an email at [curlbook@aflemm.com](mailto:curlbook@aflemm.com)
 
 ### Other Products
 
