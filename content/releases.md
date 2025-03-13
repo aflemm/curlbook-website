@@ -4,6 +4,17 @@ title = "CurlBook Releases"
 +++
 
 ---
+## 2025.3
+*March 10, 2025*
+- Added confirmation dialog for game deletion
+- Added dates on the events list view
+- Added external link to BasicBroom
+- Improved tap areas on score popover
+- Improved event date sorting
+- Improved event picker
+- Updated contact email address to curlbook@aflemm.com
+
+---
 
 ## 2025.2
 *February 8, 2025*
