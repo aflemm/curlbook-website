@@ -35,6 +35,7 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
+pluralizeListTitles: false
 
 minify:
   disableXML: true
@@ -44,7 +45,7 @@ minify:
 outputs:
   home:
     - HTML
-#     - RSS
+    - RSS
 #     - JSON
 
 params:
@@ -65,6 +66,9 @@ params:
     
   
   author: "Andrew Flemming"
+  
+  mainSections:
+    - blog
   
   label:
     text: "CurlBook"
@@ -92,7 +96,7 @@ params:
   ShowPostNavLinks: true
   #ShowBreadCrumbs: true
   #ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
+  ShowRssButtonInSectionTermList: false
   ShowAllPagesInArchive: true
   ShowPageNums: true
  # ShowToc: true

@@ -2,10 +2,11 @@
 {{- /*     Insert any custom code (web-analytics, resources, etc.) - it will appear in the <head></head> section of every page. */ -}}
 {{- /*     Can be overwritten by partial with the same name in the global layouts. */ -}}
 
+{{- if (eq .Params.env "production") }}
 <script src="https://getinsights.io/js/insights.js"></script>
 <script>
 insights.init('QWsAnCOcEY9CRegC');
 insights.trackPages();
 </script>
-
+{{- end }}
 {{- /* Head custom content area end */ -}}

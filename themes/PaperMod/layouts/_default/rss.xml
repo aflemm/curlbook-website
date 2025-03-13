@@ -47,7 +47,7 @@
   <channel>
     <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne .Title site.Title }}{{ with .Title }}in {{ . }} {{ end }}{{ end }}on {{ site.Title }}</description>
+    <description>{{ site.Title }} Blog</description>
     {{- with site.Params.images }}
     <image>
       <title>{{ site.Title }}</title>
@@ -64,7 +64,7 @@
     {{- with .OutputFormats.Get "RSS" }}
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end }}
-    {{- range $pages }}
+    {{ range where .Site.RegularPages "Section" "blog" }}
     {{- if and (ne .Layout `search`) (ne .Layout `archives`) }}
     <item>
       <title>{{ .Title }}</title>

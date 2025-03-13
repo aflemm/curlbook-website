@@ -3,10 +3,18 @@
   <channel>
     <title>Tags on CurlBook</title>
     <link>https://curlbook.ca/tags/</link>
-    <description>Recent content in Tags on CurlBook</description>
+    <description>CurlBook Blog</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en</language>
     <copyright>Andrew Flemming</copyright>
     <atom:link href="https://curlbook.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://curlbook.ca/blog/post/</link>
+      <pubDate>Thu, 13 Mar 2025 19:28:51 -0400</pubDate>
+      <guid>https://curlbook.ca/blog/post/</guid>
+      <description>&lt;p&gt;This is a blog post&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
