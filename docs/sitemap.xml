@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://curlbook.ca/blog/</loc>
     <lastmod>2025-03-13T19:28:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://curlbook.ca/</loc>
     <lastmod>2025-03-13T19:28:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/post/</loc>
+    <loc>https://curlbook.ca/blog/post/</loc>
     <lastmod>2025-03-13T19:28:51-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://curlbook.ca/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://curlbook.ca/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/privacy/</loc>
+    <loc>https://curlbook.ca/privacy/</loc>
   </url><url>
-    <loc>http://localhost:1313/releases/</loc>
+    <loc>https://curlbook.ca/releases/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://curlbook.ca/tags/</loc>
   </url>
 </urlset>
