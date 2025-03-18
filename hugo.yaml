@@ -10,10 +10,10 @@ publishDir: "docs"
 
 menu:
   main:
-#     - identifier: categories
-#       name: Blog
-#       url: /posts/
-#       weight: 10
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
     - identifier: releases
       name: Releases
       url: /releases/
@@ -46,7 +46,7 @@ outputs:
   home:
     - HTML
     - RSS
-#     - JSON
+    - JSON
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -88,7 +88,8 @@ params:
   disableThemeToggle: true
   disableAnchoredHeadings: true
   disableScrollToTop: true
-  hideMeta: true
+  hideMeta: false
+  hideAuthor: true
   #ShowShareButtons: true
   #ShowReadingTime: true
   # disableSpecial1stPost: true

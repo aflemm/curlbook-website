@@ -5,7 +5,7 @@ title = "CurlBook Releases"
 
 ---
 ## 2025.3
-*March 10, 2025*
+*March 11, 2025*
 - Added confirmation dialog for game deletion
 - Added dates on the events list view
 - Added external link to BasicBroom
