@@ -4,4 +4,7 @@
     {{- $.Scratch.Add "index" (dict "title" .Title "content" .Content "permalink" .Permalink "date" .Date) -}}
     {{- end }}
 {{- end -}}
-{{- $.Scratch.Get "index" | jsonify -}}
+{
+	"posts":
+	{{- $.Scratch.Get "index" | jsonify -}}
+}
