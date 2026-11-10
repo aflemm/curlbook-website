@@ -14,10 +14,6 @@ menu:
       name: Blog
       url: /blog/
       weight: 10
-    - identifier: releases
-      name: Releases
-      url: /releases/
-      weight: 15
     - identifier: about
       name: About
       url: /about/
