@@ -15,8 +15,7 @@
       <link>https://curlbook.ca/blog/2026/2026.11.1-update/</link>
       <pubDate>Tue, 10 Nov 2026 09:00:00 -0400</pubDate>
       <guid>https://curlbook.ca/blog/2026/2026.11.1-update/</guid>
-      <description>&lt;h2 id=&#34;changes&#34;&gt;Changes&lt;/h2&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;Fixes an issue causing crashes when deleting games&lt;/li&gt;
 &lt;li&gt;Improves chart display in some edge-cases&lt;/li&gt;
 &lt;/ul&gt;</description>
