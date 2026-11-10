@@ -122,7 +122,7 @@ CurlBook is compatible with any iPad running iOS 18.0 or later
 
 CurlBook is directly funded by its users, and sustainably priced to enable continuous development. I am not VC funded; I don't harvest data for resale; I won't nickel and dime with micro-transactions or upgrades; I will never employ 3rd party advertising. 
 
-A flat $200/year subscription gives you full access to everything CurlBook offers.
+A single $99.99/year subscription gives you full access to everything CurlBook offers.
 
 The app is free to download, and one game can be created as a trial without any commitment or signup. I will never hold your data hostage; even without a subscription you can *always* view previously generated data.
 
