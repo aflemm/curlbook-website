@@ -22,6 +22,45 @@
 &lt;/ul&gt;</description>
     </item>
     <item>
+      <title>2025.3 Update</title>
+      <link>https://curlbook.ca/blog/2025/2025.3-update/</link>
+      <pubDate>Tue, 11 Mar 2025 09:00:00 -0400</pubDate>
+      <guid>https://curlbook.ca/blog/2025/2025.3-update/</guid>
+      <description>&lt;h2 id=&#34;changes&#34;&gt;Changes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added confirmation dialog for game deletion&lt;/li&gt;
+&lt;li&gt;Added dates on the events list view&lt;/li&gt;
+&lt;li&gt;Added external link to BasicBroom&lt;/li&gt;
+&lt;li&gt;Improved tap areas on score popover&lt;/li&gt;
+&lt;li&gt;Improved event date sorting&lt;/li&gt;
+&lt;li&gt;Improved event picker&lt;/li&gt;
+&lt;li&gt;Updated contact email address to &lt;a href=&#34;mailto:curlbook@aflemm.com&#34;&gt;curlbook@aflemm.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025.2 Update</title>
+      <link>https://curlbook.ca/blog/2025/2025.2-update/</link>
+      <pubDate>Sat, 08 Feb 2025 09:00:00 -0400</pubDate>
+      <guid>https://curlbook.ca/blog/2025/2025.2-update/</guid>
+      <description>&lt;h2 id=&#34;changes&#34;&gt;Changes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Added hammer state to shot filters&lt;/li&gt;
+&lt;li&gt;Fixed an issue where conceding an end still created a new end&lt;/li&gt;
+&lt;li&gt;Fixed shot reset not properly clearing shot issues&lt;/li&gt;
+&lt;li&gt;Added missing warning message to backup restore confirmation&lt;/li&gt;
+&lt;li&gt;Removed non-functioning ‘redeem code’ button from subscription view&lt;/li&gt;
+&lt;li&gt;Added link to curlbook.ca to about page&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>2025.1 Update</title>
+      <link>https://curlbook.ca/blog/2025/2025.1-update/</link>
+      <pubDate>Thu, 06 Feb 2025 09:00:00 -0400</pubDate>
+      <guid>https://curlbook.ca/blog/2025/2025.1-update/</guid>
+      <description>&lt;h2 id=&#34;changes&#34;&gt;Changes&lt;/h2&gt;
+&lt;p&gt;Initial release! 🥳&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>CurlBook is Back!</title>
       <link>https://curlbook.ca/blog/2025/curlbook-is-back/</link>
       <pubDate>Thu, 06 Feb 2025 09:00:00 -0400</pubDate>
